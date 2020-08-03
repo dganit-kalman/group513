@@ -1,2 +1,7 @@
 # group513
 Lie-Detection project 2019
+
+There has been a long psychological debate whether and when can humans detect lies. But what if we could train a computer to detect lies? We have made the first step in this mission. We present to you today a platform of which can create a reliable database of videos containing people telling the truth or lying. This is done through a game in which the participants voluntarily play with each other on their mobile phones.
+
+In our project we have built a game app.
+Our app is a game which takes place between two participants, of which on every round they have a random category chosen from a set of categories. The participants will then have to tell a true story or lie according to what the app demands them. Then, their opponent needs to guess whether it is a true story or not. If you managed to fool your opponent, you earned a point. However, if your opponent managed to guess correctly, they have earned a point on your expense. The produced videos are saved and being kept in order to enhance the credibility of the database.
